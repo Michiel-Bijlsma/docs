@@ -24,8 +24,9 @@ An adaptive solution is a solution where each customer gets an instance of the s
 The Mendix Marketplace contains numerous adaptive solutions, for example:
 
 * [Mendix PLM for Fashion and Retail](https://marketplace.mendix.com/link/component/118343)
-* [Siemens FSM](https://marketplace.mendix.com/link/component/117710)
+* [Siemens FSM](https://marketplace.mendix.com/link/component/204718)
 * [Omnichannel Integration Layer](https://marketplace.mendix.com/link/component/118344)
+* [Optimze my Plant](https://marketplace.mendix.com/link/component/119126)
 
 Each solution is useable as is, but it can also be adapted to become even more suitable for the customer.
 
